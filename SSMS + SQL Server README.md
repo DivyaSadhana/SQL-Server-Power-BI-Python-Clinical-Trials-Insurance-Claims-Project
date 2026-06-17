@@ -8,6 +8,8 @@ Step 3: Create the Users on the 'ClinicalTrials Database to map the same login c
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/546e9435-9f67-4c39-a710-94865b42a70e" />
 
 Step 4: Apply Role-Based Permissions (RBAC) on ClinicalTrials Database only. 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0ceaf2c-e737-4c20-8a48-9b5377962523" />
+
 
 
 
