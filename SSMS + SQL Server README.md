@@ -8,7 +8,15 @@ Step 3: Create the Users on the 'ClinicalTrials Database to map the same login c
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/546e9435-9f67-4c39-a710-94865b42a70e" />
 
 Step 4: Apply Role-Based Permissions (RBAC) on ClinicalTrials Database only. 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0ceaf2c-e737-4c20-8a48-9b5377962523" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6bc1bd5-6bcf-427c-8271-fd87965afae7" />
+
+Step 5: Establish connections with Server Login Credentials from Step 1.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e06b27e-42ba-45a5-80ae-fc85f906ec95" />
+
+Step 6: Ensure the connections are established for 4 login users.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b63ff0bc-3648-4017-a50a-b5bbadf93182" />
+
+
 
 
 
