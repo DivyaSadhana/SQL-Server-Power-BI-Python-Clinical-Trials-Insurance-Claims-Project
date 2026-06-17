@@ -14,7 +14,8 @@ Step 5: Establish connections with Server Login Credentials from Step 1.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e06b27e-42ba-45a5-80ae-fc85f906ec95" />
 
 Step 6: Ensure the connections are established for 4 login users.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b63ff0bc-3648-4017-a50a-b5bbadf93182" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/942672ef-467f-4202-8227-912cfb0cf6d8" />
+
 
 
 
