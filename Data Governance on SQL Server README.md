@@ -1,4 +1,4 @@
-__Create multiple Login Users, Database Users to apply Role based Security. Apply Dynamic Data Masking__
+__Create multiple Login Users, Database Users to apply Role based Security. Apply Dynamic Data Masking to validate the results on Power BI__
 
 Step 1: Create 4 Login Users.
 
