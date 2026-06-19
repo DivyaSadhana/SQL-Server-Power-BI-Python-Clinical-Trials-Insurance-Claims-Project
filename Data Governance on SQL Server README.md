@@ -20,7 +20,7 @@ __Validate the Policies on Power BI with Dynamic Data Masking and Role Level Sec
 Step 1. Establish SQL Server Connection on Power BI and Login as Business Analyst User.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e02397af-bf68-41c9-8768-cbdbad6e6a7e" />
 
-Step 2. Total 5 tables and 1 view would be visible from the login user Business Analyst on Power BI.
+Step 2. Total 5 tables and 1 view would be visible from the login user Business Analyst on Power BI. The view was created as Row Level Security to display data from South Region.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f702bc53-6eec-42aa-b489-3a2b63f6b7a9" />
 
 Step 3: Establish connection with SQL Server as Data Analyst User.
