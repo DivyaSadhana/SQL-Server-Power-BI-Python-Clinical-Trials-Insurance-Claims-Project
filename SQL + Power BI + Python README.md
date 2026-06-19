@@ -3,8 +3,7 @@
 
 
 
-3. Import Data through 'Direct Query' to ensure masking policy remains intact as soon as changes made on data source.
-<img width="1920" height="617" alt="image" src="https://github.com/user-attachments/assets/170abcb9-123d-42fe-8705-3a8b2f2dd9b6" />
+
 
 
 
