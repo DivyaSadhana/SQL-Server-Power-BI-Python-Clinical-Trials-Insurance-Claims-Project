@@ -19,8 +19,7 @@ Step 6: Ensure the connections are established for 4 login users.
 Step 7: Perform Column masking
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5601957-c129-41c8-8dae-d745252efd74" />
 
-Step 8: Perform Row-Level Security for based on Regions.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76f62471-1133-4943-8dfd-4d2e90fe3107" />
+
 
 
 
