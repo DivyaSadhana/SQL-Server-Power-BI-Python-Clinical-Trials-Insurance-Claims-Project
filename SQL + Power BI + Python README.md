@@ -1,4 +1,4 @@
-1. Implement Dynamic Data Masking on SQL Server Table Patient Demographics. The login users Business Analyst and Data Analyst could view masked data. Only Admin user of SQL Server can view the unmasked data even after implementing DDM policy.
+1. Implement Dynamic Data Masking on SQL Server Table Patient Demographics by creating 2 Login users, 'Business Analyst' and 'Data Analyst'. Only Admin user of SQL Server can view the unmasked data to make any changes on the original tables.
 <img src="https://divyasadhana9.wordpress.com/wp-content/uploads/2026/06/image-15.png?w=1024" alt="" class="wp-image-92"/>
 
 2. Establish SQL Server Connection on Power BI and Login as Business Analyst User.
