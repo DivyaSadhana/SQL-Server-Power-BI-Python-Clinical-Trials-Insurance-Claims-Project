@@ -4,6 +4,11 @@ Implement Dynamic Data Masking on SQL Server Table Patient Demographics. The log
 Only Admin user of SQL Server can view the unmasked data.
 <img width="1376" height="729" alt="image" src="https://github.com/user-attachments/assets/e6cb1901-646a-453a-8a72-ed55776e6740" />
 
-Import Data through 'Direct Query' on Power BI.
+On Power BI by Establish SQL Server Connection with Business Analyst Login.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e02397af-bf68-41c9-8768-cbdbad6e6a7e" />
+
+Import Data through 'Direct Query' to ensure data is masked.
+<img width="1920" height="617" alt="image" src="https://github.com/user-attachments/assets/170abcb9-123d-42fe-8705-3a8b2f2dd9b6" />
+
+
 
