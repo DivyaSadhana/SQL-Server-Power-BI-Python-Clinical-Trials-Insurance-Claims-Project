@@ -1,4 +1,4 @@
-#Create multiple Login Users, Database Users to apply Role based Security. Apply Dynamic Data Masking#
+__Create multiple Login Users, Database Users to apply Role based Security. Apply Dynamic Data Masking__
 
 1: Create 4 Login Users.
 
@@ -15,7 +15,8 @@
 4: Perform Column masking
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5601957-c129-41c8-8dae-d745252efd74" />
 
-Validate the Policies on Power BI with Dynamic Data Masking and Role Level Security:
+__Validate the Policies on Power BI with Dynamic Data Masking and Role Level Security__
+
 1. Total 5 tables and 1 view would be visible from the login user Business Analyst on Power BI.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f702bc53-6eec-42aa-b489-3a2b63f6b7a9" />
 
