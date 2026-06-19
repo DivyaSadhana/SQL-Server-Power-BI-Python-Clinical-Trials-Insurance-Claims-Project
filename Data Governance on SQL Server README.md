@@ -1,6 +1,7 @@
 __Create multiple Login Users, Database Users to apply Role based Security. Apply Dynamic Data Masking__
 
 Step 1: Create 4 Login Users.
+
 <img width="558" height="105" alt="image" src="https://github.com/user-attachments/assets/f9c2d8fa-aa82-4ed9-bfad-ce677216956e" />
 
 
