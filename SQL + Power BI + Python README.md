@@ -7,7 +7,9 @@
 3. Import Data through 'Direct Query' to ensure masking policy remains intact as soon as changes made on data source.
 <img width="1920" height="617" alt="image" src="https://github.com/user-attachments/assets/170abcb9-123d-42fe-8705-3a8b2f2dd9b6" />
 
-4. Total 5 tables and 1 view would be visible from the login user Business Analyst.
+4. Total 5 tables and 1 view would be visible from the login user Business Analyst on Power BI.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f702bc53-6eec-42aa-b489-3a2b63f6b7a9" />
+
 
 
 
