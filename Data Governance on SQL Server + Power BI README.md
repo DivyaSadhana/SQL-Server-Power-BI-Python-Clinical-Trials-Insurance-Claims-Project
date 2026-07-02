@@ -15,6 +15,8 @@ Step 3: Establish connections with Server Login Credentials from Step 1. Ensure 
 Step 4: Perform Column masking
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5601957-c129-41c8-8dae-d745252efd74" />
 
+Step 5: A new View was created on SQL Server to display data related to 'North' region to facilitate Row-level security at data source level while importing data on Power BI.
+
 __Validate the Policies on Power BI with Dynamic Data Masking and Role Level Security__
 
 Step 1. Establish SQL Server Connection on Power BI and Login as Business Analyst User.
