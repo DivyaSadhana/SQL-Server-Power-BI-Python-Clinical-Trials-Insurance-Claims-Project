@@ -1,8 +1,8 @@
-💠 Business Case Study - Healthcare Analytics: Implement Data Governance through multiple Login Users Creation, Role Based Access Control (RBAC), Dynamic Data Masking, Row Level Security (RLS) based on Region of the patients at SQL Server Data Source to adhere with HIPPA regulations to analyse data on Power BI.
+💠 Business Case Study - Healthcare Analytics: Implement Data Governance through multiple Login Users Creation, Role Based Access Control (RBAC), Dynamic Data Masking, Row Level Security (RLS) based on Region of the patients at SQL Server Data Source to adhere with HIPAA regulations to analyse data on Power BI.
 
 
 
-🛑 Business Rule: Adhering to the HIPPA rules, the Patient Name, DOB, Insurance IDs from the insurance policy must be masked while sharing the data with vendors. 
+🛑 Business Rule: Adhering to the HIPAA rules, the Patient Name, DOB, Insurance IDs from the insurance policy must be masked while sharing the data with vendors. 
 
 
 
