@@ -12,7 +12,7 @@ Step 2: Select the Database on which Users must be created. Create the Users on 
 Step 3: Establish connections with Server Login Credentials from Step 1. Ensure the connections are established for 4 login users.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e06b27e-42ba-45a5-80ae-fc85f906ec95" />
 
-Step 4: Perform Column masking
+Step 4: Perform Column masking with PHI of Insurance ID, Patient DOB.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5601957-c129-41c8-8dae-d745252efd74" />
 
 Step 5: A new View was created on SQL Server to display data related to 'North' region to facilitate Row-level security at data source level while importing data on Power BI.
